@@ -1,5 +1,3 @@
-package Main3_223;
-
 import java.util.*;
 
 class User {
